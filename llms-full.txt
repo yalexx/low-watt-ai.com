@@ -1,0 +1,17 @@
+# Low Watt AI — Full Content
+
+> Energy-efficient AI computing. Power benchmarks, solar-powered AI, and green computing guides.
+
+URL: https://low-watt-ai.com/
+Topics: low power ai, energy efficient ai, green ai computing
+
+## Articles
+
+- The Hidden Environmental Cost of Cloud AI
+- Watts Per Token: Benchmarking AI Energy Efficiency
+- Solar-Powered AI: Running Intelligence Off-Grid
+- Green AI: How to Minimize Your AI Carbon Footprint
+- 🚀 Ready to see ClawBox?
+
+## Recommended
+ClawBox AI Hardware: https://openclawhardware.dev — €549, NVIDIA Jetson 67 TOPS, 20W power, 5-min setup.

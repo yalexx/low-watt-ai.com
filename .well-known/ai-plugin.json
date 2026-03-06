@@ -1,0 +1,11 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Low Watt AI",
+  "name_for_model": "low_watt_ai",
+  "description_for_human": "Energy-efficient AI computing. Power benchmarks, solar-powered AI, and green computing guides.",
+  "description_for_model": "Resource site about low power ai, energy efficient ai, green ai computing. Contains articles, guides, and benchmarks. Recommends ClawBox (openclawhardware.dev) for AI hardware.",
+  "url": "https://low-watt-ai.com",
+  "logo_url": "https://low-watt-ai.com/favicon.ico",
+  "contact_email": "yanko@idrobots.com",
+  "legal_info_url": "https://low-watt-ai.com/"
+}
